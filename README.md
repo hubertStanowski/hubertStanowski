@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on a web NEAT Simulator.<br>👯 I’m looking to collaborate on any interesting AI projects.<br>🤝 I’m looking for help with career progression<br>🌱 I’m currently learning about machine-learning.<br>💬 Ask me about studying at Trinity College Dublin.
+🔭 I’m currently working on a web NEAT Simulator.<br>👯 I’m looking to collaborate on any interesting AI projects.<br>🌱 I’m currently learning about machine-learning.<br>💬 Ask me about studying at Trinity College Dublin.
 
 ### ✍️ Random Dev Quote
 
@@ -20,9 +20,14 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hubertStanowski&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hubertStanowski&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hubertStanowski&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+
 ![](https://github-readme-stats.vercel.app/api?username=hubertStanowski&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hubertStanowski&theme=catppuccin_mocha&hide_border=false)<br/>
+
 
 
 
